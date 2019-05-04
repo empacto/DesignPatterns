@@ -1,0 +1,17 @@
+list of most common exceptions:
+
+ArgumentException, ArgumentNullException , ArgumentOutOfRangeException, ArithmeticException, DivideByZeroException ,OverflowException , IndexOutOfRangeException ,InvalidCastException ,InvalidOperationException , IOEndOfStreamException , NullReferenceException , OutOfMemoryException , StackOverflowException etc.
+
+ArgumentException
+ArgumentNullException,
+ArgumentOutOfRangeException,
+ArithmethicException,
+DivideByZeroException,
+OverflowException,
+IndexOutOfRangeException
+InvalidCastException
+OutOfMemoryException
+StackOverflowException 
+
+ArgumentException
+ArgumentNUllException
