@@ -130,10 +130,7 @@ namespace State
 
         public override void DonenessCheck()
         {
-            if(CurrentTemp > UpperTemp)
-            {
-                Steak.State = 
-            }
+           
 
         }
     }
@@ -148,11 +145,11 @@ namespace State
 
     public Steak(string beefCut)
     {
-        _cook = beefCut;
-        _state = new Rare(0.0, this);
+       
+        _state = new Medium(0, this);
     }
 
-    public double CurrentTemp
+    public int CurrentTemp
     {
         get { return _state.CurrentTemp; }
     }
@@ -163,19 +160,19 @@ namespace State
         set { _state = value; }
     }
 
-    public void AddTemp(double amount)
+    public void AddTemp(int temp)
     {
-        _state.AddTemp(amount);
-        Console.WriteLine("Increased temperature by {0} degrees.", amount);
+        _state.AddTemp(temp);
+        Console.WriteLine("Increased temperature by {0} degrees.", temp);
         Console.WriteLine(" Current temp is {0}", CurrentTemp);
         Console.WriteLine(" Status is {0}", State.GetType().Name);
         Console.WriteLine("");
     }
 
-    public void RemoveTemp(double amount)
+    public void RemoveTemp(int temp)
     {
-        _state.RemoveTemp(amount);
-        Console.WriteLine("Decreased temperature by {0} degrees.", amount);
+        _state.RemoveTemp(temp);
+        Console.WriteLine("Decreased temperature by {0} degrees.", temp);
         Console.WriteLine(" Current temp is {0}", CurrentTemp);
         Console.WriteLine(" Status is {0}", State.GetType().Name);
         Console.WriteLine("");
