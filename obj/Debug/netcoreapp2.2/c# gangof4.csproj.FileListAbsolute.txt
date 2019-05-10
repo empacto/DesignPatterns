@@ -1,0 +1,11 @@
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\bin\Debug\netcoreapp2.2\c# gangof4.deps.json
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\bin\Debug\netcoreapp2.2\c# gangof4.runtimeconfig.json
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\bin\Debug\netcoreapp2.2\c# gangof4.runtimeconfig.dev.json
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\bin\Debug\netcoreapp2.2\c# gangof4.dll
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\bin\Debug\netcoreapp2.2\c# gangof4.pdb
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.csprojAssemblyReference.cache
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.csproj.CoreCompileInputs.cache
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.AssemblyInfoInputs.cache
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.AssemblyInfo.cs
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.dll
+C:\VISUALSTUDIOCODE\SERVERLEARN\C# GANGOF4\obj\Debug\netcoreapp2.2\c# gangof4.pdb
