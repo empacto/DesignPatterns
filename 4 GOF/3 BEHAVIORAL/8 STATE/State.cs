@@ -1,4 +1,5 @@
 using System;
+//https://www.exceptionnotfound.net/state-the-daily-design-pattern/
 
 namespace State
 {
